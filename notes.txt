@@ -1,0 +1,32 @@
+type of display elements
+
+1. inline element
+2. block level element
+
+special tags...
+
+1. <div></div>
+2. <sevtion></section>
+3. <style></style>
+4. <script></script>
+
+
+=================CSS======================
+CSS= casecading style sheet
+
+1. inline CSS
+2. internal CSS
+3. External CSS
+
+
+identifire for writing CSS
+
+1. tags
+2. class (for class need to use=".class name")
+3. id (for id use= "# id name")
+
+
+Tags link:
+
+https://studentksuedu-my.sharepoint.com/:x:/g/personal/443106888_student_ksu_edu_sa/EVd11rLiRi1Hr2PipjlXnOMBsckccWniIJt6aMVYq-KIVA?e=NcslBw
+
